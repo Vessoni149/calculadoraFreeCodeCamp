@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8f416736.css",
+    "main.js": "/static/js/main.40c4d092.js",
+    "static/media/fcc_primary_large.svg": "/static/media/fcc_primary_large.2847bc12544317f79647dc18d67a0930.svg",
+    "index.html": "/index.html",
+    "main.8f416736.css.map": "/static/css/main.8f416736.css.map",
+    "main.40c4d092.js.map": "/static/js/main.40c4d092.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f416736.css",
+    "static/js/main.40c4d092.js"
+  ]
+}
